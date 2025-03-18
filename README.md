@@ -1,8 +1,10 @@
-<h1 align="center">Hey Upper East Siders, I'm Meitav!</h1>
-<h3 align="center">👩🏻‍💻 Junior DevOps Engineer</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=50&color=FF1493&background=00000000&center=true&vCenter=true&width=700&height=100&duration=3000&lines=Hello,+Upper+East+Siders!+👑;Meitav+is+here,+looking+fabulous!;XOXO,+Gossip+Girl!" />
+</h1>
+</h1><h3 align="center">👩🏻‍💻 Junior DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="meitavEini" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/meitavEini&count_bg=%23FF69B4&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -11,11 +13,11 @@
 
 ---
 
-### 💋 About Me
+### 💖 Who am I?
 
-💻 **Junior DevOps Engineer in the making**—automating like Blair Waldorf runs the Upper East Side
-🌍 **Currently leveling up** in Kubernetes, Terraform, AWS, and CI/CD (because who doesn't love control?)
-⚡ **Diving deep into** container orchestration, Infrastructure as Code, and cloud security—because drama should be in TV shows, not deployments
+  💻 **Junior DevOps Queen**—Automating like Blair Waldorf rules Manhattan
+  🌍 **Climbing the DevOps ladder** with Kubernetes, Terraform, AWS, and CI/CD
+  ⚡ **Making infrastructure as fabulous as the MET Gala**—because why settle for basic?
 
 ---
 
@@ -30,7 +32,7 @@
 
 ---
 
-### 📚 Currently Exploring
+### 🔥 Trending Topics I'm Exploring
 
 🔹 **Advanced Kubernetes Networking & Security**  
 🔹 **Cloud Cost Optimization & FinOps**  
@@ -38,14 +40,15 @@
 
 ---
 
-### 📊 GitHub Status
+### 👑 GitHub Royalty Board
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meitavEini&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&icon_color=FF69B4&border_color=FF1493&hide_border=false&card_width=500&border_radius=6" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meitavEini&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=false&border_color=FF1493&radius=4" alt="GitHub Activity Graph" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=meitavEini&theme=radical&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Achievements" />
 </p>
-
 ---
 
 ### 🌎 Let's Connect!
