@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm meitav!</h1>
+<h1 align="center">Hey Upper East Siders 👋, I'm Meitav!</h1>
 <h3 align="center">🚀 Junior DevOps Engineer</h3>
 
 <p align="center">
