@@ -6,6 +6,8 @@
 <p align="center">
 <a href="https://github.com/meitavEini/followers"><img title="Followers" src="https://img.shields.io/github/followers/meitavEini?color=pink&style=flat-square"></a>
 <a href="https://github.com/meitavEini/Stars"><img title="Stars" src="https://img.shields.io/github/stars/meitavEini?color=pink&style=flat-square"></a>
+<a href="https://github.com/meitavEini/meitavEini/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/meitavEini/meitavEini?label=Watchers&color=pink&style=flat-square"></a>
+
 </p>
 
 <p align="center">
