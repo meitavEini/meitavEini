@@ -4,7 +4,8 @@
 </h1><h3 align="center">👩🏻‍💻 Junior DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/meitavEini&count_bg=%23FF69B4&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Profile Views" />
+<a href="https://github.com/meitavEini/followers"><img title="Followers" src="https://img.shields.io/github/followers/meitavEini?color=pink&style=flat-square"></a>
+<a href="https://github.com/meitavEini/Stars"><img title="Stars" src="https://img.shields.io/github/stars/meitavEini?color=pink&style=flat-square"></a>
 </p>
 
 <p align="center">
