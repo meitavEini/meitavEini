@@ -54,7 +54,7 @@
 
 ### 🌎 Let's Connect!
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/meitav-eini-959276263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/meitav-chekroun-eini-959276263/)**
 - 📂 **[GitHub](https://github.com/meitavEini)**
 ---
 
