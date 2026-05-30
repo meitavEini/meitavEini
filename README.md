@@ -46,10 +46,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meitavEini&layout=compact&theme=radical&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&bg_color=0D1117&hide_border=false&border_radius=6" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meitavEini&theme=radical&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Achievements" />
-</p>
-
 ---
 
 ### 🌎 Let's Connect!
